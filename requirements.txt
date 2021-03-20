@@ -1,0 +1,5 @@
+discord
+sqlite3
+pymongo
+urllib3
+bson

@@ -1,0 +1,12 @@
+#config.py
+
+# bot configuration
+COMMAND_SYMBOL				= '?'
+DISCORD_TOKEN				= ''
+DESCRIPTION					= ''
+
+# database (SQLITE or MONGO)
+DATABASE					= 'SQLITE'
+
+# mongodb
+MONGO_URI					= ''
